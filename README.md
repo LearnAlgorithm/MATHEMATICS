@@ -10,12 +10,12 @@ Some interesting fact about Prime numbers
 4.>  Goldbach Conjecture: Every even integer greater than 2 can be expressed as the sum of two primes.                              
 5.>  GCD of a natural number with Prime is always one.                                                                              
 6.>  Wilson Theorem : Wilson’s theorem states that a natural number p > 1 is a prime number if and only if                          
-            (p - 1) ! ≡  -1   mod p                                                                                                 
-            OR  (p - 1) ! ≡  (p-1) mod p                                                                                            
+                               (p - 1) ! ≡  -1   mod p                                                                                  
+                           OR  (p - 1) ! ≡  (p-1) mod p                                                                                 
 7.>  Fermat’s Little Theorem: If n is a prime number, then for every a, 1 <= a < n,                                                 
-             an-1 ≡ 1 (mod n)                                                                                                       
-             OR                                                                                                                     
-             an-1 % n = 1                                                                                                           
+                                an-1 ≡ 1 (mod n)                                                                                        
+                                  OR                                                                                                    
+                                 an-1 % n = 1                                                                                           
 8.>  Prime Number Theorem : The probability that a given, randomly chosen number n is prime is inversely proportional to its number of          digits, or to the logarithm of n.                                                                                                 
 9.>  Lemoine’s Conjecture : Any odd integer greater than 5 can be expressed as a sum of an odd prime (all primes other than 2 are odd) and      an even semiprime. A semiprime number is a product of two prime numbers. This is called Lemoine’s conjecture.           
 
