@@ -4,8 +4,8 @@ A prime Number is a whole number greater than 1, which is only divisible by 1 an
 
 Some interesting fact about Prime numbers
 
-1.>  2 is the only even Prime number.
-2.>  every prime number can represented in form of 6n+1 or 6n-1, where n is natural number.
+1.>  2 is the only even Prime number.                                                                                                   
+2.>  every prime number can represented in form of 6n+1 or 6n-1, where n is natural number.                                             
 3.>  2, 3 are only two consecutive natural numbers which are prime too.
 4.>  Goldbach Conjecture: Every even integer greater than 2 can be expressed as the sum of two primes.
 5.>  GCD of a natural number with Prime is always one.
